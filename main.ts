@@ -42,5 +42,5 @@ game.onUpdateInterval(1000, function () {
         c c c c c c c b b b b b c c c c 
         c c c c c c c c b b b b b c c c 
         `, 0, 50)
-    projectile.setPosition(randint(0, 60), 0)
+    projectile.setPosition(randint(0, 160), 0)
 })
